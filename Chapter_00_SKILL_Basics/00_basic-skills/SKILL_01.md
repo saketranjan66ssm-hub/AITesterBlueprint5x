@@ -6,7 +6,7 @@ description: Turn a JIRA ticket into a review-ready test plan. Use when a tester
   test-plan template, and stops for human review before anything is treated as final.
 license: MIT
 metadata:
-  author: Saket
+  author: Saket Ranjan
   stlc-phase: Test Planning
   version: 1.0.0
   tag: ["testplan"]
